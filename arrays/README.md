@@ -1,0 +1,3 @@
+## Arrays in Go
+
+Arrays are a collection of elements of the same type. Arrays are fixed in size. Once an array is created, its size cannot be changed. The size of an array is part of its type. For example, an array of 5 integers is different from an array of 10 integers. Arrays are indexed starting from 0. The first element of an array is at index 0, the second element is at index 1, and so on. The last element of an array is at index n-1, where n is the size of the array.
