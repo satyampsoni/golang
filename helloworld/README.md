@@ -76,4 +76,5 @@ To build a binary, put the code in hello.go and use go build.
 $ go build hello.go
 ```
 Note: Use go build when you want to build a binary that you can distribute and run later. 
+In the above case the binary file is [hello_world](https://github.com/satyampsoni/golang/blob/master/helloworld/hello_world)
 
