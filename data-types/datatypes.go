@@ -8,7 +8,7 @@ package main
 import "fmt"
 
 func main() {
-	// declaring a string
+	// declaring a string with type
 	var name string = "satyam soni"
 	fmt.Println(name)
 
@@ -28,7 +28,7 @@ func main() {
 	// 2. Integers
 	// Integers are whole numbers. They can be positive or negative.
 
-	// declaring an integer
+	// declaring an integer with type
 	var age int = 20
 	fmt.Println(age)
 
@@ -43,7 +43,7 @@ func main() {
 	// 3. Booleans
 	// Booleans are either true or false.
 
-	// declaring a boolean
+	// declaring a boolean with type
 	var isTrue bool = true
 	fmt.Println(isTrue)
 
